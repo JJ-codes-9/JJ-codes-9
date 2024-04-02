@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JJ-codes-9
-- 🌱 I’m currently learning HTML and CSS - *newbie*
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🤖 Started to learn Swift
 
 <!---
 JJ-codes-9/JJ-codes-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
