@@ -17,7 +17,7 @@ I'm an aspiring full-stack developer with a passion for creating beautiful and f
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jj-codes-9&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-silk-mu.vercel.app/api?username=jj-codes-9&show_icons=true&theme=radical)
 
 
 ## 🤝 Connect with Me
