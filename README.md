@@ -22,8 +22,7 @@ I'm an aspiring full-stack developer with a passion for creating beautiful and f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🤝 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jjatwork.com/)
+🚀 **Check out my portfolio at [www.jjatwork.com](https://www.jjatwork.com)!**
 
 ---
 
