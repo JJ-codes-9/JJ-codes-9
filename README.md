@@ -16,7 +16,7 @@ I'm an aspiring full-stack developer with a passion for creating beautiful and f
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Wix Studio](https://img.shields.io/badge/Wix%20Studio-FF5700?style=for-the-badge&logo=wix&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 🤝 Connect with Me
