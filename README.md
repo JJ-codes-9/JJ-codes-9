@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 # Hi there! 👋 I'm JJ!
 
 ## 🚀 About Me
