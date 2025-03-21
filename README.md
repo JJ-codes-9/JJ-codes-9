@@ -27,6 +27,4 @@ I'm an aspiring full-stack developer with a passion for creating beautiful and f
 
 🚀 **Check out my website at [www.jjatwork.com](https://www.jjatwork.com)!**
 
----
-
-⭐️ From [jj-codes-9](https://github.com/jj-codes-9)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jj-codes-9&show_icons=true&theme=dark&locale=en" alt="jj-codes-9" /></p>
