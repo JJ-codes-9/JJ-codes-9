@@ -24,7 +24,48 @@ I'm an aspiring full-stack developer with a passion for creating beautiful and f
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+## 🚀 My Projects
 
-🚀 **Check out my website at [www.jjatwork.com](https://www.jjatwork.com)!**
+<table>
+  <tr>
+      <td align="center">
+      <a href="https://www.bellabalanced.com/">
+        <img src="https://static.wixstatic.com/media/8de07d_b78ed00810414395b527ce2a325ab2c4~mv2.png/v1/fill/w_629,h_376,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bella%20Balanced-Thumbnail.png" width=250px; alt="accounting firm website"/>
+        <br />
+        <sub><b>Accounting Firm Website</b></sub>
+      </a>
+      <br />
+      <sub><em> Wix Studio • JavaScript</em></sub>
+    </td>     
+    <td align="center">
+      <a href="https://www.patentofheart.com/">
+        <img src="https://static.wixstatic.com/media/8de07d_344d73bd4d8446bb9fb972a1f08b2fb2~mv2.png/v1/fill/w_629,h_376,fp_0.28_0.45,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Patent%20of%20Heart-Thumbnail.png" width=250px; alt="fashion e-commerce website"/>
+        <br />
+        <sub><b>Fashion E-commerce Website</b></sub>
+      </a>
+      <br />
+      <sub><em> Wix Studio • JavaScript</em></sub>
+    </td>    
+    <td align="center">
+      <a href="https://jjatwork.wixstudio.com/flowershop">
+        <img src="https://static.wixstatic.com/media/8de07d_b4657ee87c2449baa8a8b9331a8952bd~mv2.jpeg/v1/crop/x_0,y_0,w_1376,h_824/fill/w_628,h_376,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Flower%20Shop.jpeg" width=250px; alt="e-commerce website"/>
+        <br />
+        <sub><b>Small Business Website</b></sub>
+      </a>
+      <br />
+      <sub><em> Wix Studio • JavaScript</em></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.safespacesorganizing.com/">
+        <img src="https://static.wixstatic.com/media/8de07d_52305f56c6ae4a0db1cce7f6839c7b6c~mv2.jpeg/v1/fill/w_629,h_376,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Safe%20Spaces%20Organizing.jpeg" width="250px;" alt="home organization website"/>
+        <br />
+        <sub><b>Home Organization Website</b></sub>
+      </a>
+      <br />
+      <sub><em>Wix Studio • JavaScript</em></sub>
+    </td>
+  </tr>
+  
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jj-codes-9&show_icons=true&theme=dark&locale=en" alt="jj-codes-9" /></p>
+**Check out my website [JJ @work](https://www.jjatwork.com)!**
