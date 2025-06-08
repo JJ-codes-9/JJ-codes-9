@@ -1,14 +1,12 @@
 ![Banner](banner.jpg)
 
-# Hi there! 👋 I'm JJ!
+I'm a software developer with a background in marketing, production, and photography, now focused on building user-friendly web and mobile applications.
 
-## 🚀 About Me
-Software Engineer at @100Devs
-I'm an aspiring full-stack developer with a passion for creating beautiful and functional websites. Currently focusing on front-end development and expanding my skills in back-end technologies.
+I work with HTML/CSS, JavaScript, and Swift/SwiftUI. I’m currently learning React, React Native, and backend development with Node.js and Firebase, while also expanding my skills in integrating large language models (LLMs) into apps. I care about accessibility, clean design, and building tools that support real-world collaboration.
 
-- 🔭 I'm currently working on building my portfolio and improving my coding skills
-- 🌱 I'm learning JavaScript, Swift, React, and Node.js
-- 👯 I'm looking to collaborate on open source projects
+I’m developing a portfolio of practical apps — including a developer accountability platform — and actively contribute to open-source projects as part of my learning journey.
+
+Based in Brooklyn, I run JJ@work, where I help small businesses and nonprofits with websites, branding, and digital strategy.
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
